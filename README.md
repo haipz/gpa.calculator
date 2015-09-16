@@ -1,3 +1,7 @@
+# How to download
+
+https://github.com/haipz/gpa.calculator/archive/master.zip
+
 # How to install
 
 Launch `chrome` and open the `extension` page, use your mouse dragging `hdu.gpa.user.js` into `chrome`, it will be install automatically.
